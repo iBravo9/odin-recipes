@@ -1,0 +1,14 @@
+body {
+background-color:blanchedalmond;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    background-color:rgb(128, 107, 98);
+    color:blanchedalmond;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+footer {
+padding-top: 10px;
+}
